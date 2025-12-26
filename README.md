@@ -5,11 +5,15 @@ Machine Learning Internship at CodingSamurai, from 29 December 2025 to 29 Januar
 
 # 🚀 Coding Samurai – Machine Learning Internship
 
-**Intern Name:** Mohammed Abdul Wahaj Ansari
-**Internship Role:** Machine Learning Intern
-**Organization:** Coding Samurai
-**Internship Duration:** 29 December 2025 – 29 January 2026
-**Internship ID:** CSIP12266
+**Intern Name:** Mohammed Abdul Wahaj Ansari.
+
+**Internship Role:** Machine Learning Intern.
+
+**Organization:** Coding Samurai.
+
+**Internship Duration:** 29 December 2025 – 29 January 2026.
+
+**Internship ID:** CSIP12266.
 
 ---
 
