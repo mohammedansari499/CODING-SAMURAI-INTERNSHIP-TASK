@@ -151,16 +151,6 @@ This video serves as proof of work and showcases project functionality and imple
 
 ---
 
-## 🏆 Rewards & Recognition
-
-Outstanding performance during the internship may lead to:
-
-* ⭐ Letter of Recommendation (LOR)
-* 💰 Stipend opportunity
-* 📢 Feature on Coding Samurai’s official platforms
-
----
-
 ## 📜 Declaration
 
 All projects in this repository are completed by me as part of the **Coding Samurai Machine Learning Internship**.
@@ -171,7 +161,9 @@ Online resources such as documentation, tutorials, and references were used stri
 ## 📬 Contact
 
 📧 Email: [support@codingsamurai.in](mailto:support@codingsamurai.in)
+
 🌐 Website: [www.codingsamurai.in](http://www.codingsamurai.in)
+
 🔗 LinkedIn: Coding Samurai
 
 ---
